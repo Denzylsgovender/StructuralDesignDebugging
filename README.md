@@ -28,4 +28,4 @@ You are working on a **coffee shop application** that allows customers to:
 
 ---
 ## 📌 Once completed
-- Claim the following Github link and Submit your code **GitHub Submission Link:https://classroom.github.com/a/IVV8gUK_ **.
+- Claim the following Github link and Submit your code **GitHub Submission Link:[https://classroom.github.com/a/IVV8gUK_](https://classroom.github.com/a/IVV8gUK_) **.
